@@ -15,7 +15,7 @@ const (
 	AppName         = "go-bindata"
 	AppVersionMajor = 3
 	AppVersionMinor = 24
-	AppVersionRev   = 0
+	AppVersionRev   = 1
 )
 
 var vsn, longVsn string
